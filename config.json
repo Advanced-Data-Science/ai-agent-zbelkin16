@@ -1,0 +1,6 @@
+{
+    "csv_path": "../data/raw/Zillow_Data.csv",
+    "base_delay": 1.0,
+    "weather_api_key": "your_weather_api_key_here_123",
+    "news_api_key": "your_news_api_key_here_456"
+  }  

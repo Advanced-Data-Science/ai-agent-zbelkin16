@@ -1,0 +1,24 @@
+2025-09-30 20:45:21,936 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:45:21,936 - ERROR - CSV file not found at None
+2025-09-30 20:49:15,042 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:49:16,431 - INFO - Loaded CSV data with 26313 rows and 317 columns.
+2025-09-30 20:49:16,431 - INFO - Sleeping for 1.35 seconds to respect collection pacing.
+2025-09-30 20:52:41,594 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:52:41,595 - ERROR - CSV file not found at None
+2025-09-30 20:53:33,157 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:53:33,157 - ERROR - CSV file not found at None
+2025-09-30 20:53:55,675 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:53:55,675 - ERROR - CSV file not found at None
+2025-09-30 20:54:05,448 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:54:05,448 - ERROR - CSV file not found at None
+2025-09-30 20:55:47,996 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:55:48,000 - ERROR - CSV file not found at None
+2025-09-30 20:55:56,272 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:55:56,272 - ERROR - CSV file not found at None
+2025-09-30 20:57:30,873 - INFO - Starting Zillow CSV data agent
+2025-09-30 20:57:32,690 - INFO - Loaded CSV data with 26313 rows and 317 columns.
+2025-09-30 20:57:32,690 - INFO - Sleeping for 1.48 seconds to respect collection pacing.
+2025-09-30 20:57:34,245 - INFO - Data Quality - Completeness: 0.77, Consistency: 0.50, Timeliness: 0.50, Overall: 0.59
+2025-09-30 20:57:34,246 - INFO - Sleeping for 1.09 seconds to respect collection pacing.
+2025-09-30 20:57:47,074 - INFO - Processed data saved to processed_zillow_data.csv
+2025-09-30 20:57:47,074 - INFO - Zillow CSV data agent finished successfully
